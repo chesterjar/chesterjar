@@ -3,19 +3,34 @@ layout: post
 title: "Cover Letter"
 date: 2016-09-12
 ---
-Chester Jar                                                                             Email: jar@ualberta.ca
-123 Address Lane                                                                        Phone: 780-432-7810
-Edmonton, Alberta                                                                       Cell: 780-807-6061
+Chester Jar
+
+123 Address Lane
+
+Edmonton, Alberta
+
 T6R 2V7
 
+Email: jar@ualberta.ca
 
-September 12th, 2016
-University of Alberta
-116 St & 85 Ave
-Edmonton, AB, T6G 2R3
+Phone: 780-432-7810
+
+Cell: 780-807-6061
+
 
 ATTN: Dr. Fakeprof
 Re: Research Intern opportunity
+
+
+
+September 12th, 2016
+
+University of Alberta
+
+116 St & 85 Ave
+
+Edmonton, AB, T6G 2R3
+
 
 Dear Dr. Fakeprof,
 
