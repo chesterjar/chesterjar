@@ -34,13 +34,17 @@ Edmonton, AB, T6G 2R3
 
 Dear Dr. Fakeprof,
 
-Please accept and review this letter and CV as an application for a chance to be a research intern under your supervision at the University of Alberta. I am a mechanical engineering co-op student in the biomedical program and I will be availible for work starting in May, 2017 for a four month duration.
+  Please accept and review this letter and CV as an application for a chance to be a research intern under your supervision at the
+University of Alberta. I am a mechanical engineering co-op student in the biomedical program and I will be availible for work starting in May, 2017 for a four month duration.
 
-As for the compatibility between me and the position, I feel as if it is an excellent match, because the job description on your website implies heavy hands-on work, and the competence to interpret and analyze raw data - all abilities that I believe I possess. The topic and goal of your research intrigues me and is in the field that I am heavily interested in for my career interests.
+  As for the compatibility between me and the position, I feel as if it is an excellent match, because the job description on your 
+website implies heavy hands-on work, and the competence to interpret and analyze raw data - all abilities that I believe I possess. The topic and goal of your research intrigues me and is in the field that I am heavily interested in for my career interests.
 
-In terms of my abilities, I possess a strong sense of commitment and discipline, as well as the ability to think critically and creatively. During the summer of 2016, I had worked in the departments of mechanical and civil engineering, under the supervision of Dr. Christopher Dennison, to conduct tests and analyze high strength rail steel. In regards to the work done, I had learned how to conduct various tests and operate machinery in under a week. I also learned and utilized the software Solidworks from scratch and designed a working test device for crack-growth analysis. As a first year student at the time, a lot of terms were unknown to me, and it was my responsibility to do research on my own time to familiarize myself with vocabulary and concepts involved; this included concepts such as fracture mechanics, crack-growth, and stress-strain calculations. My work ethic is also reinforced by attaining a 3.9 GPA during my first year at university.
+  In terms of my abilities, I possess a strong sense of commitment and discipline, as well as the ability to think critically and
+creatively. During the summer of 2016, I had worked in the departments of mechanical and civil engineering, under the supervision of Dr. Christopher Dennison, to conduct tests and analyze high strength rail steel. In regards to the work done, I had learned how to conduct various tests and operate machinery in under a week. I also learned and utilized the software Solidworks from scratch and designed a working test device for crack-growth analysis. As a first year student at the time, a lot of terms were unknown to me, and it was my responsibility to do research on my own time to familiarize myself with vocabulary and concepts involved; this included concepts such as fracture mechanics, crack-growth, and stress-strain calculations. My work ethic is also reinforced by attaining a 3.9 GPA during my first year at university.
 
-I am free to start in May 2017, but I will be availible for an interview at any point in time. My contact information is in the About section on this website. Thank you for your time, and your consideration of my application. I hope to hear from you in the future.
+  I am free to start in May 2017, but I will be availible for an interview at any point in time. My contact information is in the 
+"About" section on this website. Thank you for your time, and your consideration of my application. I hope to hear from you in the future.
 
 
 Sincerely,
