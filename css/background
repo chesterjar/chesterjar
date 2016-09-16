@@ -1,0 +1,7 @@
+html { 
+  background: url(http://i1243.photobucket.com/albums/gg543/PicturesforMECE/abstract-background-design_zpsb69iweii.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
